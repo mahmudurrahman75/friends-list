@@ -1,6 +1,5 @@
-### project name: friends-list
+# project Name: friends-list
 
-**Here The project name is friends-list**
 [Linkedin Link](https://www.linkedin.com/in/md-mahmudur-rahman-8125991ba/)
 
 
